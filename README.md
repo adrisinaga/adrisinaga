@@ -16,7 +16,7 @@
 
 
 ### Watch my Youtube:
-[Youtube - @adrisinaga](https://www.youtube.com/channel/UCe7gyu6i_AswFnSINNzGv0w/)
+[Youtube - https://www.youtube.com/c/AdriSinaga](https://www.youtube.com/c/AdriSinaga)
 
 
 ### Social Media:
