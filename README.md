@@ -17,8 +17,13 @@
 - Software Development Life Cycle: Waterfall and Scrum.
 
 
-### Watch my Youtube:
+### Watch My Youtube:
 [Youtube - https://www.youtube.com/c/AdriSinaga](https://www.youtube.com/c/AdriSinaga)
+
+
+### See My UI Design:
+[Dribbble](https://dribbble.com/adrisinaga)<img align="left" alt="Adri's Dribbble" width="22px" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" />
+[Behance](https://www.behance.net/adrisinaga)<img align="left" alt="Adri's Dribbble" width="22px" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" />
 
 
 ### Social Media:
