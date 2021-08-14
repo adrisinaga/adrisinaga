@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Adri Sinaga</h1>
 
+<h5 align="center">Flutter Dev || UI/UX Design || Restful API || MVP for Startup</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrisinaga&label=Views&color=blue&style=plastic" alt="adrisinaga" /> </p>
 
 [![Linkedin: adrisinaga](https://img.shields.io/badge/-adrisinaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/adrisinaga/)
