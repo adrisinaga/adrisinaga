@@ -37,7 +37,7 @@
 <a href="https://t.me/adrisinaga">
   <img align="left" alt="Adri's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/adr.sng/">
+<a href="https://www.instagram.com/adri.automation">
   <img align="left" alt="Adri's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.instagram.com/carryu.id/">
